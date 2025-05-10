@@ -153,3 +153,14 @@
 - CN: AI Ascent 活动凸显了这是一个快速转型、机遇巨大并需要建设者和投资者共同战略适应的时代。AI 的未来不仅涉及技术进步，还涉及商业运作方式以及人类与智能系统互动方式的根本性转变。
 
 ![AI年度回顾示意图](screencapture-file-Users-xiaowei-Downloads-code-1-html-2025-05-10-19_27_19.png)
+
+---
+
+## 🌟 AI Ascent 2025 Keynote 精华
+
+### AI's Trillion-Dollar Opportunity: Sequoia AI Ascent 2025 Keynote
+#### 人工智能的万亿美元机遇：红杉资本 AI Ascent 2025 主题演讲
+
+> 📺 [点击观看完整演讲视频（YouTube）](https://www.youtube.com/watch?v=v9JBMnxuPX8)
+
+https://www.youtube.com/watch?v=v9JBMnxuPX8
