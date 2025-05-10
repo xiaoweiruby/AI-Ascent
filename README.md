@@ -151,3 +151,5 @@
 ## 结论 (Conclusion)
 - EN: The AI Ascent event underscores a period of rapid transformation, immense opportunity, and the need for strategic adaptation for builders and investors alike. The future of AI involves not just technological advancement but also fundamental shifts in how businesses operate and how humans interact with intelligent systems.
 - CN: AI Ascent 活动凸显了这是一个快速转型、机遇巨大并需要建设者和投资者共同战略适应的时代。AI 的未来不仅涉及技术进步，还涉及商业运作方式以及人类与智能系统互动方式的根本性转变。
+
+![AI年度回顾示意图](screencapture-file-Users-xiaowei-Downloads-code-1-html-2025-05-10-19_27_19.png)
